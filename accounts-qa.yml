@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to MyBank accounts related local APIs for qa environment"
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "johnysinghqa@mybank.com"
+  onCallSupport:
+    - (666) 555-1234
+    - (666) 523-1345
