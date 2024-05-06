@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to MyBank accounts related local APIs for production envrionment"
+  message: "Welcome to MyBank accounts related local APIs for production envrionment updated"
   contactDetails:
     name: "John Doe - Developer"
     email: "johnysingh_prod@mybank.com"
