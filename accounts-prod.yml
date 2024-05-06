@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to MyBank accounts related local APIs for production with cloud bus envrionment "
   contactDetails:
-    name: "John Doe - Developer added webhook"
+    name: "John Doe - Developer added webhook updated"
     email: "johnysingh_prod@mybank.com"
   onCallSupport:
     - (555) 555-1234
