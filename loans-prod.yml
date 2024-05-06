@@ -2,7 +2,7 @@ build:
   version: "2.5"
 
 loans:
-  message: "Welcome to MyBank loans related local APIs for production environment with commit id"
+  message: "Welcome to MyBank loans related local APIs for production environment with commit id added webhook"
   contactDetails:
     name: "John Doe loans - Developer"
     email: "johnysingh_prod@mybank.com"
