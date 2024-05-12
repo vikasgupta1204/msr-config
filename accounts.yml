@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to MyBank accounts related local APIs default "
+  message: "Welcome to MyBank accounts/docker related local APIs default "
   contactDetails:
     name: "John Doe - Developer"
     email: "johndefault@mybank.com"

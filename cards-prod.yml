@@ -2,7 +2,7 @@ build:
   version: "2.5"
 
 cards:
-  message: "Welcome to MyBank cards related local APIs for production environment"
+  message: "Welcome to MyBank cards related local APIs for production environment with cloud bus"
   contactDetails:
     name: "John Doe cards - Developer"
     email: "johnysingh_prod@mybank.com"
